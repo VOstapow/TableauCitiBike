@@ -32,7 +32,7 @@ The CitiBike data can be visualized regarding many aspects. On this project we s
 5. Top 10 start & End Stations
 6. Bottom 10 start & End Stations
 
-<img src="Images/1-Cover.png" width="600" />
+<img src="Images/1-Cover.png" width="800" />
 
 
 ### 1. Overview of the data
@@ -44,7 +44,7 @@ The CitiBike data can be visualized regarding many aspects. On this project we s
 * There were more bikes in March and April comparred to other months.
 * This view has a filter so the user can select individual or all the months to compare results.
 
-<img src="Images/2-Overview.png" width="600" />
+<img src="Images/2-Overview.png" width="800" />
 
 ### 2. Data regarding users by type
 
@@ -54,7 +54,7 @@ The CitiBike data can be visualized regarding many aspects. On this project we s
 * We noticed a small number of customers by age group compared to the large number of subscribers, however, the 50 year olds composed 35% of the total number of riders.
 * This view has a filter so the user can select individual or all the months to compare results.
 
-<img src="Images/3-Users.png" width="600" />
+<img src="Images/3-Users.png" width="800" />
 
 ### 3. Data regarding trips by gender
 
@@ -62,7 +62,7 @@ The CitiBike data can be visualized regarding many aspects. On this project we s
 * There was a decrease of both genders from Jan to Feb and then we see an increas of both genders in the following months.
 * There was 40.62% of 50 year olds who didn't select either gender.
 
-<img src="Images/4-Gender.png" width="600" />
+<img src="Images/4-Gender.png" width="800" />
 
 ### 4. Data of the most used bikes and usage per hour and weekday
 
@@ -71,7 +71,7 @@ The CitiBike data can be visualized regarding many aspects. On this project we s
 * On weekdays, there is more usage during peak ours 8 a.m. and 9 a.m. and 5 p.m. and 7 p.m. Possibly related to working schedules.
 * Saturday and sunday, there is an even usage throughout the day between noon and 5 p.m.
 
-<img src="Images/5-Usage.png" width="600" />
+<img src="Images/5-Usage.png" width="800" />
 
 ### 5. Top 10 start & End Stations
 
@@ -81,7 +81,7 @@ The CitiBike data can be visualized regarding many aspects. On this project we s
 * This view has a filter so the user can select individual months or all the months to compare results.
 * The map is divided in sections by zipcode.
 
-<img src="Images/6-Top Stations.png" width="600" />
+<img src="Images/6-Top Stations.png" width="800" />
 
 ### 6. Bottom 10 start & End Stations
 
@@ -93,4 +93,4 @@ The CitiBike data can be visualized regarding many aspects. On this project we s
 * The least popular stations to end a trip are in Manhattan. 
 * This may suggest that not many users bike across the bridge and mainly use the bike within Manhattan. 
 
-<img src="Images/7-Bottom Stations.png" width="600" />
+<img src="Images/7-Bottom Stations.png" width="800" />
